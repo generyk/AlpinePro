@@ -1,3 +1,4 @@
+require 'bundler/setup'
 require_relative "./version"
 require 'pry'
 require 'open-uri'
